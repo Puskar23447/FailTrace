@@ -1,0 +1,9 @@
+FailTrace Incident Report
+Incident Type: Failed SSH Login Attempts
+Log Source: Custom Filtered Log
+
+Suspicious IP Address: 127.0.0.1
+Failed Attempts: 3
+Severity: Medium
+Possible Attack: Brute Force
+
